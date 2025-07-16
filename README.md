@@ -5,6 +5,19 @@
   Interested in <strong>AI · Multi-object Tracking · Computer Vision</strong>
 </p>
 
+<div align="center">
+  
+  ![visitors](https://komarev.com/ghpvc/?username=Ruihanna&label=Profile%20Views&color=0e75b6&style=flat)
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RuiHanna/RuiHanna/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RuiHanna/RuiHanna/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RuiHanna/RuiHanna/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ## 🛠️ Technologies & Tools
 
 <div align="center">
@@ -45,12 +58,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruihanna&theme=github" />
 </p>
 
-<div align="center">
-  
-  ![visitors](https://komarev.com/ghpvc/?username=Ruihanna&label=Profile%20Views&color=0e75b6&style=flat)
-  
-</div>
-
 
 ## 📬 Let's Connect
 
@@ -65,12 +72,6 @@
   ✨ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=25&duration=4000&pause=1000&color=000000&vCenter=true&repeat=false&height=20&lines=Stay+Patient+and+Trust+Your+Journey" alt="Typing SVG" /></a> 🎈
 </h3>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RuiHanna/RuiHanna/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RuiHanna/RuiHanna/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RuiHanna/RuiHanna/output/github-contribution-grid-snake.svg">
-</picture>
 
 
 
