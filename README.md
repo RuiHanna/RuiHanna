@@ -2,7 +2,7 @@
 
 <p align="center">
   A passionate Computer Science student and developer from China 🇨🇳<br>
-  Interested in <strong>AI · Compiler · Multi-object Tracking · Mini Programs</strong>
+  Interested in <strong>AI · Multi-object Tracking · Computer Vision</strong>
 </p>
 
 ## 🛠️ Technologies & Tools
@@ -33,13 +33,37 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruihanna&layout=compact&theme=default" height="160">
 </div>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ruihanna&theme=flat&row=1&column=6" />
+</p>
+
+## 🧠 Contribution Calendar
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruihanna&theme=github" />
+</p>
+
+<div align="center">
+  
+  ![visitors](https://komarev.com/ghpvc/?username=Ruihanna&label=Profile%20Views&color=0e75b6&style=flat)
+  
+</div>
+
+
 ## 📬 Let's Connect
 
 - 📮 Email: _[ruihanna16@gmail.com]_  
 - 🌐 CSDN Blog: [Solen.&](https://blog.csdn.net/weixin_73558212)
 - 💡 Always open to collaboration, research and ideas exchange!
 
-<p align="center"><i>"Strive not to be a success, but rather to be of value." — Albert Einstein</i></p>
+
+<br/>
+
+<h3 align="center">
+  ✨ <strong><em>Stay Patient and Trust Your Journey.</em></strong> ✨
+</h3>
 
 
 <!--
