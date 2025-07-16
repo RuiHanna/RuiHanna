@@ -7,7 +7,7 @@
 
 <div align="center">
   
-  ![visitors](https://komarev.com/ghpvc/?username=Ruihanna&label=Profile%20Views&color=0e75b6&style=flat)
+  ![visitors](https://komarev.com/ghpvc/?username=Ruihanna&label=visitors&color=0e75b6&style=flat)
 </div>
 
 <br/>
