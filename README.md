@@ -10,9 +10,11 @@
   ![visitors](https://komarev.com/ghpvc/?username=Ruihanna&label=Profile%20Views&color=0e75b6&style=flat)
 </div>
 
+<br/>
 <h3 align="center">
   ✨ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=25&duration=4000&pause=1000&color=000000&vCenter=true&repeat=false&height=20&lines=Stay+Patient+and+Trust+Your+Journey" alt="Typing SVG" /></a> 🎈
 </h3>
+<br/>
 
 <div align="center">
   <picture>
