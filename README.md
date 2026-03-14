@@ -52,12 +52,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruihanna&layout=compact&theme=default" height="160">
 </div>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ruihanna&theme=flat&row=1&column=6" />
-</p>
-
 ## 🧠 Contribution Calendar
 
 <p align="center">
